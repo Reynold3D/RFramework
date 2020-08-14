@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Reynold\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Reynold\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_RFramework.-1307046115.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Reynold\Documents\GitHub\RFramework0" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="AssetbundleConfig.xml" t="Include" />
+        <e p="RealFram" t="Include">
+          <e p="Data" t="Include">
+            <e p="Xml" t="Include">
+              <e p="BuffData.xml" t="Include" />
+            </e>
+          </e>
+          <e p="DemoData" t="Include">
+            <e p="BuffData.cs" t="Include" />
+          </e>
+          <e p="Editor" t="Include">
+            <e p="Config" t="Include">
+              <e p="DataEditor.cs" t="Include" />
+            </e>
+            <e p="RealFramConfig.cs" t="Include" />
+            <e p="Resource" t="Include">
+              <e p="ABConfig.cs" t="Include" />
+              <e p="BuildApp.cs" t="Include" />
+              <e p="BundleEditor.cs" t="Include" />
+              <e p="OfflineDataEditor.cs" t="Include" />
+            </e>
+          </e>
+          <e p="FramePlug" t="Include">
+            <e p="Base" t="Include">
+              <e p="ConStr.cs" t="Include" />
+              <e p="MonoSingleton.cs" t="Include" />
+              <e p="Singleton.cs" t="Include" />
+            </e>
+            <e p="Conifig" t="Include">
+              <e p="BinarySerializeOpt.cs" t="Include" />
+              <e p="ConfigerManager.cs" t="Include" />
+              <e p="ExcelBase.cs" t="Include" />
+            </e>
+            <e p="Res" t="Include">
+              <e p="AssetBundleConfig.cs" t="Include" />
+              <e p="AssetBundleManager.cs" t="Include" />
+              <e p="ClassObjectPool.cs" t="Include" />
+              <e p="CRC32.cs" t="Include" />
+              <e p="ObjectManager.cs" t="Include" />
+              <e p="OfflineData" t="Include">
+                <e p="EffectOfflineData.cs" t="Include" />
+                <e p="OfflineData.cs" t="Include" />
+                <e p="UIOfflineData.cs" t="Include" />
+              </e>
+              <e p="ResourceManager.cs" t="Include" />
+            </e>
+            <e p="RFramework.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Base.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Resource.csproj" t="IncludeRecursive" />
+      <e p="RFramework.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
